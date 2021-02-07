@@ -5,7 +5,7 @@
 <main>
 	<h1>こんにちは。関口大地です</h1>
 	<div class="block">
-    <p>Software Enginner頑張ってます</p>
+    <p>Software Engineer頑張ってます</p>
     <p>ひととなりは<a href="https://note.com/smartcamp_tent/n/nbe612500f39a">こんな感じ</a></p>
     <p><span>github:</span><a href="https://github.com/daichi1998928">見てね</a></p>
     <p><span>note:</span><a href="https://note.com/daichi1998928">読んでね</a></p>
